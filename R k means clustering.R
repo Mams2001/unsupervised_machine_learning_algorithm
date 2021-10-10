@@ -1,4 +1,4 @@
-# K means Clustering algorithm that find groupings from users hobbies and activities datasets.
+# K-means Clustering algorithm that finds groupings from users hobbies and activities stored in datasets.
 
 ## Mamoune El Boukfaoui
 
